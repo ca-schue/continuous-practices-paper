@@ -3,7 +3,7 @@
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Diese Arbeit unterliegt den Bestimmungen einer
-[Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz][cc-by].
+[Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
